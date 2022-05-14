@@ -1,0 +1,31 @@
+###############################################################
+JDataKey creado por Daniel Andino Camacho.
+JDataKey es un sistema de base de datos de tipo: clave y valor
+simple pero potente ,sistema de encriptamiento de datos creado
+por el desarrollador de JDataKey. Si quieres contribuir con
+el desarrollo de la libreria. o necesitas contactar puedes
+hacerlo mediante el correo "hellotecnologic@gmail.com"
+###############################################################
+
+######################## Version v1.0 ############################
+
+* Se agrego Sistema de Encriptacion Personalizado el cual consiste
+  en encriptar la base de datos con un archivo el cual tiene los 
+  patrones de encriptacion personalizados.Con este sistema creado
+  por Daniel Andino Camacho, nadie podra tener acceso a su base de
+  datos solo usted tendra el archivo de encriptacion lo que aporta
+  un nivel de seguridad mas alto a nuestra libreria lo cual la hace
+  una opcion mas segura.Pero si no agrega la  url del  archivo  de
+  encriptacion se utilizara el sistema de encriptacion por default
+  de la libreria que sirve para pruebas ligeras pero para sistemas
+  de nivel profesional debe utilizar sistema personalizado.
+
+  Para utilizar el Sistema de Encriptacion Personalizado debe crear 
+  un archivo por ejemplo : encript.txt y dentro de el va a guardar 
+  97 valores diferentes dentro de [] separados por comas ejemplo:
+
+      [HJds1],[gfk349],[93nfm9&],[9483jg],[98jkf],[499j95]
+
+##################################################################
+
+Para ver documentacion abrir index.html en la carpeta documentacion.

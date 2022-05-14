@@ -1,0 +1,14 @@
+
+ Copyright (C) 2022 Daniel Andino Camacho
+
+ This program is free software; you can redistribute it and/or modify
+ it under the terms of the LGPL GNU General Public License as 
+ published by the Free Software Foundation; either version 3 of the 
+ License, or (at your option) any later version.
+
+ This program can be distributed, copied and/or modified by referring
+ to its author name and email address. 
+ 
+ Created by Daniel Andino Camacho 
+ Email address is hellotecnologic@gmail.com
+
