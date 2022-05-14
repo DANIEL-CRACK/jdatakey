@@ -1,0 +1,1 @@
+SE sirve para crear fichero de encriptacion para utilizar en la libreria JDataKey
