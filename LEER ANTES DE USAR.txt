@@ -29,3 +29,4 @@ hacerlo mediante el correo "hellotecnologic@gmail.com"
 ##################################################################
 
 Para ver documentacion abrir index.html en la carpeta documentacion.
+Archivo Libreria JAR es /JDataBase-1.0
